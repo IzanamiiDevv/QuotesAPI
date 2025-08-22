@@ -1,1 +1,29 @@
 "You can't use up creativity. The more you use, the more you have." – Maya Angelou
+
+
+Chosen Modern Computing Technology: Artificial Intelligence (AI)
+
+Three Possible Adverse Effects on an Industry
+
+1. Job Displacement: Automation can replace workers, causing unemployment.
+
+
+2. Bias and Discrimination: AI can produce unfair outcomes due to biased data.
+
+
+3. Security Risks: AI can be used for cyberattacks and deepfakes.
+
+
+
+
+---
+
+How to Prevent These Adverse Effects
+
+To prevent job loss, companies should provide training for new roles. Bias can be reduced by using diverse datasets and testing fairness. Security risks can be minimized by applying strong cybersecurity measures and regular system checks. Governments and businesses should create clear AI regulations. Finally, making AI systems transparent builds trust and accountability.
+
+
+---
+
+Do you want me to shorten it even further to fit in one paragraph? Or keep this format?
+
